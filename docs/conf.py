@@ -1,4 +1,4 @@
-project = 'DuckDuckGo Guide'
+project = 'Vivaldi Browser Guide'
 author = 'Your Name'
 release = '1.0'
 
